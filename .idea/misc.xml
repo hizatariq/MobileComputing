@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/activity_eighthactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/activity_fifthactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/activity_mainactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/activity_seventhactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/header.xml" value="0.12844036697247707" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Juniors/app/src/main/res/layout/quizlistview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/LittleJunior/app/src/main/res/layout/activity_fifthactivity.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/LittleJunior/app/src/main/res/layout/activity_fourthactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/LittleJunior/app/src/main/res/layout/activity_mainactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/LittleJunior/app/src/main/res/layout/activity_sixthactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/LittleJunior/app/src/main/res/layout/activity_thirdactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_fifthactivity.xml" value="0.11659192825112108" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_fourthactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_mainactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_secondactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_sixthactivity.xml" value="0.176" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/MyApplication4/app/src/main/res/layout/activity_thirdactivity.xml" value="0.2359375" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout-land/activity_fifthactivity.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout-land/activity_fourthactivity.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout-land/activity_mainactivity.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout-land/activity_secondactivity.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout-land/activity_sixthactivity.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout-land/activity_thirdactivity.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_eighthactivity.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_fifthactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_fourthactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_mainactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_secondactivity.xml" value="0.16" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_seventhactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_sixthactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/mctaskapp/LittleJuniors/app/src/main/res/layout/activity_thirdactivity.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

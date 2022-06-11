@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/alpha"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+
+
+        android:gravity="left"
+        android:padding="4dp"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_editor_absoluteY="1dp"
+        tool:ignore="MissingConstraints"
+        tool:layout_editor_absoluteY="4dp" />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="114dp"
+        android:layout_height="110dp"
+        android:src="@drawable/aa"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.053"
+        app:layout_constraintStart_toStartOf="parent"
+        tool:ignore="MissingConstraints"
+        tool:layout_editor_absoluteY="4dp" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="215dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="64dp"
+        android:gravity="left"
+        android:padding="4dp"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.9"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_editor_absoluteY="1dp"
+        tool:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fifthactivity">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="Number Of Questions:  "
+        android:textStyle="bold|italic"
+        android:textColor="#B71C1C"
+        android:textAllCaps="false"
+        android:layout_marginLeft="0dp"
+        android:layout_marginStart="0dp"
+        android:gravity="left"
+        android:fontFamily="@font/berkshire_swash"
+        app:backgroundTint="#B71C1C"
+        android:textSize="20sp"
+        android:id="@+id/noofquestions"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Attempted Questions:"
+        android:textStyle="bold|italic"
+        android:textColor="#B71C1C"
+        android:textAllCaps="false"
+        android:layout_marginLeft="0dp"
+        android:layout_marginStart="0dp"
+        android:gravity="left"
+
+        android:fontFamily="@font/berkshire_swash"
+        app:backgroundTint="#B71C1C"
+        android:textSize="20sp"
+        android:id="@+id/attemptedquestions"/>
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:gravity="left"
+        android:text="Choose the correct Option :  "
+
+        android:textAllCaps="false"
+        android:textColor="#B71C1C"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        app:backgroundTint="#B71C1C"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical"
+        tools:visibility="visible">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="188dp"
+            android:layout_height="125dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="50dp"
+            app:srcCompat="@drawable/bb" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="671dp"
+            android:layout_height="130dp">
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="200dp"
+                android:layout_height="49dp"
+                android:layout_marginTop="16dp"
+                android:padding="4dp"
+                android:shadowColor="#880E4F"
+                android:text="Option 1"
+                android:textAllCaps="false"
+                android:textColor="#1A237E"
+                app:backgroundTint="#B71C1C"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.033"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/b2"
+                android:layout_width="200dp"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:padding="4dp"
+                android:shadowColor="#880E4F"
+                android:text="Option 2"
+                android:textAllCaps="false"
+                android:textColor="#1A237E"
+                app:backgroundTint="#B71C1C"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.94"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/b3"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="76dp"
+                android:padding="4dp"
+                android:shadowColor="#880E4F"
+                android:text="Option 3"
+                android:textAllCaps="false"
+                android:textColor="#1A237E"
+                app:backgroundTint="#B71C1C"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.033"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/b4"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="76dp"
+                android:padding="4dp"
+                android:shadowColor="#880E4F"
+                android:text="Option 4"
+                android:textAllCaps="false"
+                android:textColor="#1A237E"
+                app:backgroundTint="#B71C1C"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.94"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <Button
+            android:id="@+id/next"
+            android:layout_width="155dp"
+            android:layout_height="64dp"
+            android:layout_marginLeft="250dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:shadowColor="@color/white"
+            android:text="Next"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold|italic"
+            app:backgroundTint="#B71C1C" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>
